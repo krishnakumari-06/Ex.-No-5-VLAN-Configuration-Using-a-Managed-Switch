@@ -1,4 +1,4 @@
-## Ex. No: 5  VLAN Configuration Using a Managed Switch
+## Ex. No: 4  VLAN Configuration Using a Managed Switch
 # Date:29/10/26
 ________________________________________
 # Objective
