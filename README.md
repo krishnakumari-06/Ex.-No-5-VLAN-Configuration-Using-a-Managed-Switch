@@ -68,7 +68,7 @@ ________________________________________
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/9609a5b4-a8a4-4e65-a51e-b16da5f0cb1e" />
 
 •	Successful ping between PCs in the same VLAN<br>
-<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/148a422e-f961-4c0a-a71a-0b3afe4fe3fb" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/224ecc0e-9eba-4d5a-8839-a18f7dca7070" />
 
 •	Failed ping between PCs in different VLANs<br>
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/683ba353-2101-4a86-ac74-2fe6e227108e" />
